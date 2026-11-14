@@ -1,0 +1,8 @@
+node_modules/
+out/
+out-second/
+.env
+.env.*
+*keypair*.json
+*credentials*
+transcripts*.tar.gz
