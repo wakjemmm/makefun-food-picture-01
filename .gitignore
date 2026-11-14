@@ -1,4 +1,5 @@
 node_modules/
+artwork.svg
 out/
 out-second/
 .env
